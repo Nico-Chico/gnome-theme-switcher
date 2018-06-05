@@ -1,5 +1,5 @@
 #/bin/sh
-# gnome-theme-switcher	v0.1		 by Nico Magro Cruzado (Nico_chico)
+# gnome-theme-switcher	v0.1		 by Nico Magro Cruzado (Nico_Chico)
 
 # CONFIG:
 theme1="Adwaita"      #Choose your first gtk theme
