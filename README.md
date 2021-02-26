@@ -1,5 +1,5 @@
 # gnome-theme-switcher                         
-#####    __________________________________________________________________________________ by Nico Magro Cruzado (Nico_chico)
+#####    __________________________________________________________________________________ by Nico Magro Cruzado
 
 Hi! This is a tiny script that allow you to changue between two Gnome GTK themes quickly and easily.
 This is very useful to switch to dark theme at night.
